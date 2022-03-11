@@ -24,7 +24,7 @@ This is a real world challenge, that we start tackling in this year. Help us to 
 Insert your Pitch Video or Slides here
 
 ### Deep Dive Slides
-https://github.com/START-Hack/CityOfStGallen-STARTHACK22/blob/main/220311_StartHack%20Presentation%20Stadt%20StGallen%202022.pptx
+https://github.com/START-Hack/CityOfStGallen-STARTHACK22/blob/main/Deep%20Dive%20Pr%C3%A4senataion%20START%20Hack%202022.pdf
 
 
 ### Further Information
