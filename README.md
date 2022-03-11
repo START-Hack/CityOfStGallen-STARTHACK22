@@ -1,10 +1,24 @@
 # START Hack 2022 - CityOfStGallen Case 
 
 ### Case Introduction
-Please give a short introduction to your case.
-What is the problem you are solving?
-What do you expect from the winning team?
-Are you planning on further developing this project after the START Hack?
+Social welfare is a very important but costly service in the public sector. The goal of our social aid system is to support the recipients as a last “safety net” and supporting them to overcome difficult circumstances in life. The aim is to get out of the system and remain economically independent in the future. 
+In contrast to this social and political goal of social welfare stays the financial technicality that welfare recipients are accumulating financial liabilities towards the state and technically have to pay back their debt when they are financially independent again.
+
+The City of St.Gallen now reflects how to increase the motivation of the people to pay back these debts, without jeopardizing the social goal of keeping people out of the social aid system. At the same time, the scarce human resources should be in a good ratio to the repaid debts. Therefore, St.Gallen’s social service department asks the following questions:
+*	Which groups of recipients do they need to motivate in order to increase overall paybacks without jeopardizing their financial well-being and optimize the department’s scarce personal resources?
+*	What motivational options exist to support recipients?
+*	How can these measures be communicated / transported to the recipients?
+
+This is a real world challenge, that we start tackling in this year. Help us to solving it by creating useful solutions!
+
+#### Expected Results:
+1. Analysis of the willingness and ability of paybacks from different recipients’ profiles: Who is likely to payback based on the data provided?
+2. Visualization or application that displays the critical factors of paybacks in an understandable manner and that enables social workers to optimize their own resources
+3. Measures / motivational scheme that makes use of these insights and practically leads the former recipients to pay back a realistic amount: How would you interact and communicate with recipients in order to implement these measures and practically increase paybacks?
+
+--> These aspects may be combined in a digital application or be worked out seperately
+
+
 
 ### Case Pitch
 Insert your Pitch Video or Slides here
@@ -17,18 +31,39 @@ Insert any further information about the hack case, the topic and related projec
 Give as much context as possible, in order to give your coders a head start!
 
 ### Resources
-List all relevant resources and tools here.
-Also links to potentially relevant databases, tools, software applications can be helpful to give coders more stuff to work with and be creative.
-You want the participants to spend as much time as possible focusing on the more creative and complex aspects of your challenge.
+* Dummy dataset of welfare recipients and their characteristics: *Handed out to the definitive participants*
+* Dummy dataset of former welfare recipients who are paying back: *Handed out to the definitive participants*
+* (List of duration and changes of social aid reception): *tbd if possible*
+* Statistical population data in machine readable format: http://stada2.sg.ch/
+* Social aid statistics on a national level: https://www.bfs.admin.ch/bfs/de/home/statistiken/soziale-sicherheit/sozialhilfe.html
+
 
 ### Judging Criteria
-Insert a description of your grading scheme here! What are you looking for? What outcome do you expect?
+We orient ourselves at the judging criteria of the START Hack which consists of the following criteria:
+* Complexity & Technical Sophistication: Usage of appropriate services and technologies
+* Design: Usability of the solution
+* Viability: Possibility of realizing the solution
+* Feasibility: Maturity Level of the developed solution
+* Creativity & Innovation: surprise effect to the jury
+* Presentation: Communication of the developed solution
+
+However, St.Gallen needs to add one more criteria - **USEFULNESS**:
+
+* Since it is a real world challenge, that we are start tackling this year, we need your solution to be useful
+* Because of the scarce resources the most important part is the analysis and identification of the profiles. Your solution should therefore definitely contain this part or show what you have tried in the analysis.
+
 
 ### Point of Contact
-List all available mentors here.
+* Christian Geiger, CDO Stadt St.Gallen: via Discord
+* Nicola Wullschleger, Projektmanager Smart City: via Discord @OpenDataStGallen_Nicola
+* Daniela Tschudi, Department Manager Social Services: via Nicola
+* Michael Höhener & Patrik Pizzigoni, IT-Specialists Social Services (Datastructure Experts): via Nicola
 
 ### Time Slots at the Booth
-List the expected times of availability at the booth here.
+Availability at the booth will be defined at a later stage
 
 ### Prize
-Let the participants know what will be expecting the winning Team!
+To show you the beautiful landscape of eastern Switzerland in an sustainable and still adventurous way, the winning team is going paragliding:
+![image](https://user-images.githubusercontent.com/62013029/157916020-18aeca5e-5c26-40ce-8339-5a198fc4ca22.png)
+
+
