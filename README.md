@@ -24,7 +24,7 @@ This is a real world challenge, that we start tackling in this year. Help us to 
 Insert your Pitch Video or Slides here
 
 ### Deep Dive Slides
-Insert materials from your Deep Dives here
+
 
 ### Further Information
 Insert any further information about the hack case, the topic and related projects.
@@ -63,7 +63,9 @@ However, St.Gallen needs to add one more criteria - **USEFULNESS**:
 Availability at the booth will be defined at a later stage
 
 ### Prize
-To show you the beautiful landscape of eastern Switzerland in an sustainable and still adventurous way, the winning team is going paragliding:
-![image](https://user-images.githubusercontent.com/62013029/157916020-18aeca5e-5c26-40ce-8339-5a198fc4ca22.png)
+To show you the beautiful landscape of eastern Switzerland in an sustainable and still adventurous way, the winning team receives...
+
+![image](https://user-images.githubusercontent.com/62013029/157916309-da4c4adf-212e-47ca-a5ef-cdb0dad43ccf.png)
+
 
 
