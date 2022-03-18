@@ -27,16 +27,16 @@ Insert your Pitch Video or Slides here
 https://github.com/START-Hack/CityOfStGallen-STARTHACK22/blob/main/Deep%20Dive%20Pr%C3%A4senataion%20START%20Hack%202022.pdf
 
 
-### Further Information
-Insert any further information about the hack case, the topic and related projects.
-Give as much context as possible, in order to give your coders a head start!
-
 ### Resources
 * Dummy dataset of welfare recipients and their characteristics: *Handed out to the definitive participants*
 * Dummy dataset of former welfare recipients who are paying back: *Handed out to the definitive participants*
 * (List of duration and changes of social aid reception): *tbd if possible*
 * Statistical population data in machine readable format: http://stada2.sg.ch/
 * Social aid statistics on a national level: https://www.bfs.admin.ch/bfs/de/home/statistiken/soziale-sicherheit/sozialhilfe.html
+
+### Further Information
+* Swiss social statistics report 2019: https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/grafiken.assetdetail.9026637.html
+* Comparison of social assitance numbers between swiss cities (incl. St.Gallten):https://staedteinitiative.ch/de/Info/Kennzahlen_Sozialhilfe/Kennzahlenbericht_aktuell
 
 
 ### Judging Criteria
