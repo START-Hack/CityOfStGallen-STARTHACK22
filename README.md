@@ -56,6 +56,8 @@ However, St.Gallen needs to add one more criteria - **USEFULNESS**:
 
 
 ### Point of Contact
+If you need to contact us online, please do so **only on Discord.** Do not use the START Summit platform for case questions and meeting coordination with us!
+
 * Christian Geiger, CDO Stadt St.Gallen: via Discord
 * Nicola Wullschleger, Projektmanager Smart City: via Discord @OpenDataStGallen_Nicola
 * Daniela Tschudi, Department Manager Social Services: via Nicola
