@@ -28,15 +28,16 @@ https://github.com/START-Hack/CityOfStGallen-STARTHACK22/blob/main/Deep%20Dive%2
 
 
 ### Resources
-* Dummy dataset of welfare recipients and their characteristics: *Handed out to the definitive participants*
-* Dummy dataset of former welfare recipients who are paying back: *Handed out to the definitive participants*
-* (List of duration and changes of social aid reception): *tbd if possible*
+* Anonymized Dataset of welfare recipients and their characteristics: *Handed out to the definitive participants*
+* Anonymized Dataset of former welfare recipients who are paying back: *Handed out to the definitive participants*
+* List of duration and changes of social aid reception: *Handed out to the definitive participants*
 * Statistical population data in machine readable format: http://stada2.sg.ch/
+* Social aid statistics on a cantonal level: https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/themen/B13/kommunale-sozialhilfe.html
 * Social aid statistics on a national level: https://www.bfs.admin.ch/bfs/de/home/statistiken/soziale-sicherheit/sozialhilfe.html
 
 ### Further Information
 * Swiss social statistics report 2019: https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/grafiken.assetdetail.9026637.html
-* Comparison of social assitance numbers between swiss cities (incl. St.Gallten):https://staedteinitiative.ch/de/Info/Kennzahlen_Sozialhilfe/Kennzahlenbericht_aktuell
+* Comparison of social assitance numbers between swiss cities (incl. St.Gallten): https://staedteinitiative.ch/de/Info/Kennzahlen_Sozialhilfe/Kennzahlenbericht_aktuell
 
 
 ### Judging Criteria
